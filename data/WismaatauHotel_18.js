@@ -1,0 +1,1 @@
+var json_WismaatauHotel_18 = {"type":"FeatureCollection","name":"WismaatauHotel_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Wisma":"Wisma Ciberlin"},"geometry":{"type":"Point","coordinates":[101.552079881605948,-0.543326567242072]}}]}

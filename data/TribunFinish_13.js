@@ -1,0 +1,1 @@
+var json_TribunFinish_13 = {"type":"FeatureCollection","name":"TribunFinish_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","TF":"Tribun FINISH Pulau Godang Kari"},"geometry":{"type":"Point","coordinates":[101.557226080877257,-0.552146232700552]}}]}

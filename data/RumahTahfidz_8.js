@@ -1,0 +1,1 @@
+var json_RumahTahfidz_8 = {"type":"FeatureCollection","name":"RumahTahfidz_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","RT":"Rumah Tahfidz An-Nurr"},"geometry":{"type":"Point","coordinates":[101.552619790697875,-0.545199811140376]}}]}

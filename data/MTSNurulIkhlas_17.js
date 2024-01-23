@@ -1,0 +1,1 @@
+var json_MTSNurulIkhlas_17 = {"type":"FeatureCollection","name":"MTSNurulIkhlas_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","MTS":null},"geometry":{"type":"Point","coordinates":[101.544674177405668,-0.556491141959204]}}]}

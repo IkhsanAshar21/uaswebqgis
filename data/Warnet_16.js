@@ -1,0 +1,1 @@
+var json_Warnet_16 = {"type":"FeatureCollection","name":"Warnet_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Warnet":"SQUAD.NET"},"geometry":{"type":"Point","coordinates":[101.549522432722782,-0.544580889539335]}}]}

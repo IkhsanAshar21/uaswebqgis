@@ -1,0 +1,1 @@
+var json_MasjidAnNur_12 = {"type":"FeatureCollection","name":"MasjidAnNur_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Masjid":"AN-Nur"},"geometry":{"type":"Point","coordinates":[101.554149258875441,-0.543252374417805]}}]}
